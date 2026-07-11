@@ -1,4 +1,4 @@
-# Sistem Manajemen Percetakan Berbasis Java Di Surya Baru Cinere
+<img width="1867" height="626" alt="image" src="https://github.com/user-attachments/assets/bb6f5bc8-fa9c-434a-9673-c08f78c47298" /># Sistem Manajemen Percetakan Berbasis Java Di Surya Baru Cinere
 
 ## Deskripsi
 
@@ -59,25 +59,25 @@ manifest.mf
 5. Jalankan project.
 
 ## Modul Aplikasi
-Data Barang
+### Data Barang
 Digunakan untuk menambah, mengubah, menghapus, dan melihat data barang yang ingin atau dijual pada toko.
 
-Data Supplier
+### Data Supplier
 Digunakan untuk mengelola data supplier yang memasok barang.
 
-Data Pelanggan
+### Data Pelanggan
 Digunakan untuk menyimpan informasi pelanggan.
 
-Data Karyawan
+### Data Karyawan
 Digunakan untuk mengelola data Karyawan yang menggunakan aplikasi.
 
-Pemesanan
+### Pemesanan
 Mencatat transaksi barang yang dipesan oleh pelanggan.
 
-Pembayaran
+### Pembayaran
 Mencatat transaksi barang yang ingin dibayar setelah dipesan.
 
-Laporan
+### Laporan
 Menghasilkan laporan menggunakan JasperReports yang dapat dicetak.
 
 ## Pengembang
