@@ -1,5 +1,3 @@
-<img width="1867" height="626" alt="image" src="https://github.com/user-attachments/assets/bb6f5bc8-fa9c-434a-9673-c08f78c47298" /># Sistem Manajemen Percetakan Berbasis Java Di Surya Baru Cinere
-
 ## Deskripsi
 
 Sistem Manajemen Percetakan Berbasis Java Di Surya Baru Cinere adalah aplikasi desktop berbasis Java yang dibuat menggunakan NetBeans IDE.
@@ -42,8 +40,8 @@ Database yang digunakan adalah MySQL, sedangkan pembuatan laporan menggunakan Ja
 ## Struktur Project
 
 ```
-src/
 nbproject/
+src/
 build.xml
 manifest.mf
 ```
