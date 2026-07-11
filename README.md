@@ -61,9 +61,10 @@ manifest.mf
 
 1. Install XAMPP atau MySQL Server.
 2. Import file pp.sql ke phpMyAdmin.
-3. Buka project menggunakan NetBeans.
-4. Pastikan library JasperReports dan MySQL Connector telah terpasang.
-5. Jalankan project.
+3. Pastikan nama database sama (pp).
+4. Buka project menggunakan NetBeans.
+5. Pastikan library JasperReports dan MySQL Connector telah terpasang.
+6. Jalankan project.
 
 ## Login Form
 
