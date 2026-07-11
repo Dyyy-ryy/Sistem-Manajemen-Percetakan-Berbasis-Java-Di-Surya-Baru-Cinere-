@@ -65,6 +65,14 @@ manifest.mf
 4. Pastikan library JasperReports dan MySQL Connector telah terpasang.
 5. Jalankan project.
 
+## Login Form
+
+```
+Username: admin
+Password: 12345
+```
+
+---
 ## Modul Aplikasi
 ### Data Barang
 Digunakan untuk menambah, mengubah, menghapus, dan melihat data barang yang ingin atau dijual pada toko.
