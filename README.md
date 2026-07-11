@@ -41,7 +41,7 @@ Database yang digunakan adalah MySQL, sedangkan pembuatan laporan menggunakan Ja
 
 ```
 PemogramanVisual          -> Source code/project
-PemogramanVisual.jar      -> File .jar
+PemogramanVisual.jar      -> App .jar
 pp.sql                    -> Database MySQL
 ```
 
